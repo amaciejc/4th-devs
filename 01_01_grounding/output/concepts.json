@@ -1,6 +1,6 @@
 {
   "sourceFile": "/Users/overment/playground/devs/01_01_grounding/notes/crypto.md",
-  "model": "gpt-5.4",
+  "model": "openai/gpt-5.4",
   "paragraphs": [
     {
       "index": 0,
